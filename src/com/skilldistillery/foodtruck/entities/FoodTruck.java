@@ -63,9 +63,4 @@ public class FoodTruck {
 		return "FoodTruck [individualID=" + individualID + ", name=" + name + ", foodType=" + foodType + ", rating="
 				+ rating + "]";
 	}
-
-	
-	
-	
-	
 }
